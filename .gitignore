@@ -1,0 +1,9 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Local group storage (except .gitkeep)
+.group/local/*
+!.group/local/.gitkeep
